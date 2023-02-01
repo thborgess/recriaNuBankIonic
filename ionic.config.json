@@ -1,0 +1,7 @@
+{
+  "name": "recriaNubank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
